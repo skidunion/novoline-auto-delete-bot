@@ -1,0 +1,21 @@
+# Maven
+target/
+
+### Auto-import
+.idea/modules/
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/modules.xml
+
+# IntelliJ
+out/
+.idea/.name
+*.iml
+
+### User-specific stuff
+.idea/dictionaries/
+.idea/inspectionProfiles/
+.idea/shelf/
+.idea/tasks.xml
+.idea/uiDesigner.xml
+.idea/workspace.xml
